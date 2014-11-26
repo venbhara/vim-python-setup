@@ -1,4 +1,3 @@
-" Sample .vimrc file by Martin Brochhaus
 set nocompatible              " be iMproved, required
 filetype off                  " required
 
